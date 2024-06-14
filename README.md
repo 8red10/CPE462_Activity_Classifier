@@ -4,11 +4,13 @@
 ## Author
 Jack Krammer
 
+Credit: Sources adapted from Harvard TinyMLx
+
 Assisting professor: John Oliver
 
-Computer Engineering Senior Project
-
 California Polytechnic State University
+
+Computer Engineering Senior Project
 
 June 14, 2024
 
