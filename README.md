@@ -150,7 +150,7 @@ These labels correspond to the outputs of the model when the provided dataset is
 <div align='left'>
 
 ### Important note
-This dataset was only created with one person performing the activities. As a result, the models created could be overfit to that person and not translate well to others. Future work involves improving the provided dataset by gathering more data from different people. Future work also includes adding more activities to the dataset, increasing the number of activities these models can classify.
+This dataset was only created with one person performing the activities. As a result, the models created maybe overfit to that person and might not translate well to others. Future work involves improving the provided dataset by gathering more data from different people. Future work also includes adding more activities to the dataset, increasing the number of activities these models can classify.
 
 
 ## Helpful Links
