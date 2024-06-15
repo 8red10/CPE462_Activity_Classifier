@@ -45,7 +45,7 @@ More detail on each of these steps is provided below, this is simply the general
 
 
 ## Train the Activity Classifier Model
-To train your own custom activity classifier model, follow the steps outlined in this <a href="https://colab.research.google.com/drive/1_GEXZAPXsCfp8AiebNxsjRdz5PzIoXvG?usp=sharing" title="colab notebook">Colab Notebook</a>. It is set up so all you have to do is select 'run all' and a model will be generated and trained with the provided dataset. Alternatively, you can update the `Define your Model` section of the Colab Notebook to test a different type of model.
+To train your own custom activity classifier model, follow the steps outlined in this <a href="https://colab.research.google.com/drive/1_GEXZAPXsCfp8AiebNxsjRdz5PzIoXvG?usp=sharing" title="colab notebook">Colab Notebook</a>. It is set up so all you have to do is select 'Run all' (Runtime -> Run all) and a model will be generated and trained with the provided dataset. Alternatively, you can update the `Define your Model` section of the Colab Notebook to test a different type of model.
 
 After running all code blocks in that colab notebook, you will have a model that can be used with the Arduino IDE. Download that model (**follow the instructions provided in the very last text block of the colab notebook**) then look at the next section of this readme for the next steps. 
 
